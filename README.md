@@ -65,8 +65,31 @@ The application uses SQLite to store meter readings, user information, appliance
 
 ## Application Screenshots
 
-Screenshots of the Smart Electricity Bill Breakdown System, including the dashboard, bill breakdown, usage analysis, appliance analysis and reports.
+### Screenshot 1
+![Screenshot 1](Screenshots/Screenshot%20(2).png)
 
+### Screenshot 2
+![Screenshot 2](Screenshots/Screenshot%20(3).png)
 
+### Screenshot 3
+![Screenshot 3](Screenshots/Screenshot%20(4).png)
+
+### Screenshot 4
+![Screenshot 4](Screenshots/Screenshot%20(5).png)
+
+### Screenshot 5
+![Screenshot 5](Screenshots/Screenshot%20(6).png)
+
+### Screenshot 6
+![Screenshot 6](Screenshots/Screenshot%20(7).png)
+
+### Screenshot 7
+![Screenshot 7](Screenshots/Screenshot%20(8).png)
+
+### Screenshot 8
+![Screenshot 8](Screenshots/Screenshot%20(9).png)
+
+### Screenshot 9
+![Screenshot 9](Screenshots/Screenshot%20(10).png)
 ## Note
 The electricity tariff values are prototype rates used for demonstration. The CSV input simulates meter readings; the application is not connected to a physical smart meter.
