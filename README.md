@@ -63,5 +63,10 @@ The application uses meter_data.csv as sample meter-reading input.
 ## Database
 The application uses SQLite to store meter readings, user information, appliance details and bill records.
 
+## Application Screenshots
+
+Screenshots of the Smart Electricity Bill Breakdown System, including the dashboard, bill breakdown, usage analysis, appliance analysis and reports.
+
+
 ## Note
 The electricity tariff values are prototype rates used for demonstration. The CSV input simulates meter readings; the application is not connected to a physical smart meter.
